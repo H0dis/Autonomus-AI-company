@@ -1,25 +1,30 @@
 # Autonomus
 
-> AI Company Operating System  
-> A human-directed platform for coordinating specialized AI workers, projects, budgets, approvals and autonomous workflows.
+> **AI Company Operating System**  
+> A human-directed platform for coordinating specialized AI workers, projects, budgets and approvals.
 
-**Status:** Active development  
-**Source code:** Private  
-**Screenshots:** See photos below
+**Status:** Active Development · **Source:** Private · **Screenshots below** 
+
+<p align="center">
+  <img src="images/dashboard.png" alt="Autonomus Dashboard" width="100%">
+</p>
+
+## What is Autonomus?
+
+Autonomus turns a high-level business objective into coordinated AI work.
+
+- Define an objective and budget
+- Automatically generate milestones and tasks
+- Execute work through specialized AI roles
+- Review and validate generated results
+- Keep humans in control through approvals
+- Track project and company AI spending
+
+The human acts as the CEO while Autonomus coordinates the AI workforce.
 
 ---
 
-## Overview
-
-Autonomus is an experimental **AI Company Operating System** designed around a simple idea:
-
-> One human defines the objective. A coordinated AI workforce plans, executes, reviews and validates the work.
-
-Instead of interacting with a single general-purpose AI assistant, Autonomus organizes multiple specialized AI roles inside a company-like structure.
-
-The human remains the CEO, decision-maker and final reviewer, while the system handles project planning, task execution, verification, cost control and workflow coordination.
-
----
+## How it works
 
 ## How it works
 
