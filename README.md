@@ -4,7 +4,7 @@
 > A human-directed platform for coordinating specialized AI workers, projects, budgets, approvals and autonomous workflows.
 
 **Status:** Active development  
-**Source code:** Private
+**Source code:** Private  
 **Screenshots:** See photos below
 
 ---
